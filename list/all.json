@@ -1,0 +1,24 @@
+{
+  "name": "JIN DEX",
+  "timestamp": "2022-10-31T02:54:08.002Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  },
+  "logoURI": "https://jin.network/favicon.png",
+  "keywords": [
+    "jindex",
+    "jinnetwork"
+  ],
+  "tokens": [
+    {
+      "name": "JIN BSC",
+      "symbol": "JIN",
+      "address": "0x47E4B1e902907C14917Df63ab2b9Cf15851E73ff",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://jin.network/favicon.png"
+    }
+  ]
+}
